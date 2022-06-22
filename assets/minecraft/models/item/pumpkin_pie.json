@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/pumpkin_pie"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/creampixel/cake_bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/creampixel/chocolate_bar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/creampixel/chocolate_bar_white"
+    }
+  ]
+}

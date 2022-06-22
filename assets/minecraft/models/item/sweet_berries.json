@@ -1,0 +1,50 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/sweet_berries"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/creampixel/strawberry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/creampixel/cherry"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/creampixel/cheese"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/creampixel/roshan_cheese"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/creampixel/lemon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/creampixel/mango"
+    },
+	  {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/creampixel/candy_cane"
+    }
+  ]
+}

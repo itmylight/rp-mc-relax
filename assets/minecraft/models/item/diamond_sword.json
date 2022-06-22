@@ -1,0 +1,122 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/creampixel/candy_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/creampixel/lime_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/creampixel/strawberry_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/creampixel/melon_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/creampixel/icecream_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/creampixel/chocolate_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/creampixel/whitechocolate_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/creampixel/abyss_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/creampixel/anomaly_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/creampixel/death_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/creampixel/diamond_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/creampixel/green_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/creampixel/mint_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/creampixel/shadow_scythe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/creampixel/diamond_sword_texture"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/creampixel/finn_new_sword_adventure_time"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/creampixel/pew_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/creampixel/red_hacker_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "item/creampixel/ender_sword"
+    }
+  ]
+}

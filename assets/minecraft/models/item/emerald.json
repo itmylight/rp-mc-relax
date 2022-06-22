@@ -1,0 +1,38 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/emerald"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/creampixel/pink_coin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/creampixel/casino_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/creampixel/casino_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/creampixel/casino_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/creampixel/active_point"
+    }
+  ]
+}

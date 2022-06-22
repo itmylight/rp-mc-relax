@@ -1,0 +1,50 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/creampixel/amythest_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/creampixel/falcon_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/creampixel/lucinda_s_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/creampixel/rainbow_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/creampixel/staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/creampixel/wd_electro"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/creampixel/witch_staff"
+    }
+	]
+}

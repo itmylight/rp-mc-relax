@@ -1,0 +1,50 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/creampixel/candy_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/creampixel/lime_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/creampixel/strawberry_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/creampixel/melon_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/creampixel/icecream_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/creampixel/chocolate_pickaxe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/creampixel/whitechocolate_pickaxe"
+    }
+  ]
+}

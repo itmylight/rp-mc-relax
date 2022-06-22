@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "fatfish:fixed_sbu.ttf",
+			"note":"Special Thank to Cadson Demak, Principal design of Kanit font @2008. This Fixed sprite-based Unicode has been crafted by FatFish for everyone!",
+			"shift": [0, 0],
+			"size": 13.5,
+			"oversample": 7.7,
+			"skip": ""
+        }
+	]
+}
